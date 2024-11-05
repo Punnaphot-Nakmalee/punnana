@@ -1,2 +1,2 @@
 # punnana
-local cahnge 1 kub
+add  in remote 1
